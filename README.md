@@ -10,7 +10,7 @@
 
 ## **Description:**
 
-The purpose of this notebook is to explore Global Fishing Watch's dataset showing daily fishing effort as inferred fishing hours daily. Over the notebook (peruvian-fisheries-effort.ipynb), will show how to read, visualize and give an overview of how the selected data can be used to explore differences in fishing effort within and outside Peru's EEZ and how fishing effort is impacted by El Niño Southern Oscillation (ENSO) events.
+The purpose of this notebook is to explore Global Fishing Watch's dataset showing daily fishing effort as inferred fishing hours daily. Over the notebook (peruvian-fisheries-effort.ipynb), we will show how to read, visualize and give an overview of how the selected data can be used to explore differences in fishing effort within and outside Peru's EEZ and how fishing effort is impacted by El Niño Southern Oscillation (ENSO) events.
 
 #### **Visuals**
 Here is an interesting video from the global fishing watch company describing their tool and potential usages. 
